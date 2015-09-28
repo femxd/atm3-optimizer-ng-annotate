@@ -1,0 +1,42 @@
+{
+  "name": "atm3-optimizer-ng-annotate",
+  "description": "Adds AngularJS dependency injection annotations.",
+  "version": "0.0.1",
+  "author": {
+    "name": "allanfish",
+    "email": "googleyufei@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/femxd/atm3-optimizer-ng-annotate"
+  },
+  "keywords": [
+    "fis",
+    "angular",
+    "ng-annotate"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "astral": "~0.1.0",
+    "astral-angular-annotate": "~0.0.1",
+    "escodegen": "~0.0.15",
+    "esprima": "~1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/femxd/atm3-optimizer-ng-annotate/issues"
+  },
+  "maintainers": [
+    {
+      "name": "allanfish",
+      "email": "googleyufei@qq.com"
+    }
+  ]
+}
